@@ -1,0 +1,56 @@
+# monitor.yml
+# Scheduled workflow that runs the stock monitor. Fires on a wide UTC window
+# to cover both EST and EDT NYSE market hours (the actual open/closed check
+# happens inside main.py via exchange_calendars, not here).
+
+name: Stock Monitor
+
+on:
+  schedule:
+    # Every 30 minutes, from 13:30 to 20:59 UTC — wide enough to cover NYSE
+    # hours in both winter (EST) and summer (EDT) without editing this file
+    # twice a year.
+    - cron: "1,31 13-20 * * 1-5"
+  workflow_dispatch: {}  # allows manually triggering a run from the GitHub UI, useful for testing
+
+concurrency:
+  group: stock-monitor-run
+  cancel-in-progress: true
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout main branch (source code)
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch latest state from the state branch
+        run: |
+          git fetch origin state
+          git checkout origin/state -- state/state.json
+
+      - name: Run the monitor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+        run: python3 -m src.main
+
+      - name: Commit updated state back to the state branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/state.json
+          git diff --cached --quiet && echo "No state changes to commit" && exit 0
+          git commit -m "Update state.json [skip ci]"
+          git push origin HEAD:state

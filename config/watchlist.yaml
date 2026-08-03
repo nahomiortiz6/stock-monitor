@@ -1,0 +1,68 @@
+# watchlist.yaml
+# List of assets monitored by the system.
+# type: "etf" or "stock" — determines whether fundamental_fetcher.py calculates
+#   fundamental metrics (P/E, EV/EBITDA, ROE, net margin, debt/equity). Only applies to "stock".
+
+assets:
+  # --- Broad market ETFs ---
+  - ticker: VOO
+    type: etf
+  - ticker: IVV
+    type: etf
+  - ticker: VB
+    type: etf
+  - ticker: VWO
+    type: etf
+
+  # --- Sector ETFs ---
+  - ticker: VGT
+    type: etf
+  - ticker: SOXX
+    type: etf
+  - ticker: ITB
+    type: etf
+  - ticker: VNQ
+    type: etf
+  - ticker: GLD
+    type: etf
+
+  # --- Individual stocks ---
+  - ticker: AAPL
+    type: stock
+  - ticker: ABNB
+    type: stock
+  - ticker: ADBE
+    type: stock
+  - ticker: AMD
+    type: stock
+  - ticker: AMZN
+    type: stock
+  - ticker: AVGO
+    type: stock
+  - ticker: MELI
+    type: stock
+  - ticker: MSFT
+    type: stock
+  - ticker: MU
+    type: stock
+  - ticker: NU
+    type: stock
+  - ticker: NVDA
+    type: stock
+  - ticker: TSLA
+    type: stock
+  - ticker: MA
+    type: stock
+  - ticker: TSM
+    type: stock
+  - ticker: GOOGL
+    type: stock
+  - ticker: CSCO
+    type: stock
+  - ticker: NVO
+    type: stock
+
+# Correlated asset groups: if two or more trigger in the same run,
+# alert_engine.py consolidates them into a single alert instead of sending one per ticker.
+correlation_groups:
+  - [VOO, IVV]
