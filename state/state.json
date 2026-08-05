@@ -51,6 +51,18 @@
     "NVO_return_5d": {
       "last_alert_ts": "2026-08-05T14:55:10.095673+00:00",
       "last_severity": 1.2335830622201296
+    },
+    "SOXX_return_5d": {
+      "last_alert_ts": "2026-08-05T15:13:33.429711+00:00",
+      "last_severity": 1.028686659325661
+    },
+    "MU_return_5d": {
+      "last_alert_ts": "2026-08-05T15:13:33.429735+00:00",
+      "last_severity": 1.045518410486434
+    },
+    "TSM_return_5d": {
+      "last_alert_ts": "2026-08-05T15:13:33.429743+00:00",
+      "last_severity": 1.0046125139202386
     }
   },
   "fundamentals_cache": {
@@ -227,6 +239,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 13
+    "count": 16
   }
 }
