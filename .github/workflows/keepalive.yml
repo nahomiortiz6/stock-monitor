@@ -1,0 +1,29 @@
+# keepalive.yml
+# Makes a trivial empty commit once a month to prevent GitHub from
+# auto-disabling monitor.yml's scheduled trigger after 60 days of
+# repository inactivity. This workflow does not touch any project files.
+
+name: Keepalive
+
+on:
+  schedule:
+    # Once a month, on the 1st, at a time far from monitor.yml's own schedule
+    - cron: "0 6 1 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+
+      - name: Make an empty commit to keep the repository active
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Keepalive: prevent GitHub Actions auto-disable [skip ci]"
+          git push origin master
