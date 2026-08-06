@@ -1,8 +1,8 @@
 {
   "alerts": {
     "VOO_return_5d": {
-      "last_alert_ts": "2026-08-05T14:55:10.095609+00:00",
-      "last_severity": 1.989180755327987
+      "last_alert_ts": "2026-08-06T15:13:58.721606+00:00",
+      "last_severity": 1.3264864839948873
     },
     "VB_return_5d": {
       "last_alert_ts": "2026-08-05T14:55:10.095618+00:00",
@@ -25,8 +25,8 @@
       "last_severity": 1.0649861146484916
     },
     "AMZN_return_5d": {
-      "last_alert_ts": "2026-08-05T14:55:10.095644+00:00",
-      "last_severity": 2.573774648890648
+      "last_alert_ts": "2026-08-06T15:13:58.721621+00:00",
+      "last_severity": 1.8783144565384295
     },
     "AVGO_return_5d": {
       "last_alert_ts": "2026-08-05T14:55:10.095649+00:00",
@@ -37,8 +37,8 @@
       "last_severity": 3.041806009221471
     },
     "NVDA_return_5d": {
-      "last_alert_ts": "2026-08-05T14:55:10.095659+00:00",
-      "last_severity": 1.6829830231475276
+      "last_alert_ts": "2026-08-06T15:13:58.721638+00:00",
+      "last_severity": 1.3569474703662787
     },
     "GOOGL_return_5d": {
       "last_alert_ts": "2026-08-05T14:55:10.095663+00:00",
@@ -49,8 +49,8 @@
       "last_severity": 1.064882683994543
     },
     "NVO_return_5d": {
-      "last_alert_ts": "2026-08-05T14:55:10.095673+00:00",
-      "last_severity": 1.2335830622201296
+      "last_alert_ts": "2026-08-06T15:13:58.721645+00:00",
+      "last_severity": 1.3091992676342015
     },
     "SOXX_return_5d": {
       "last_alert_ts": "2026-08-05T15:13:33.429711+00:00",
@@ -63,6 +63,14 @@
     "TSM_return_5d": {
       "last_alert_ts": "2026-08-05T15:13:33.429743+00:00",
       "last_severity": 1.0046125139202386
+    },
+    "MELI_return_1d": {
+      "last_alert_ts": "2026-08-06T15:13:58.721627+00:00",
+      "last_severity": 1.4652827071101144
+    },
+    "MSFT_rsi": {
+      "last_alert_ts": "2026-08-06T15:13:58.721632+00:00",
+      "last_severity": 1.2519521623818368
     }
   },
   "fundamentals_cache": {
@@ -239,6 +247,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 16
+    "count": 22
   }
 }
