@@ -1,10 +1,9 @@
-# stock-monitor
 
 # Stock Alert System with AI
 
 An automated stock monitoring pipeline that tracks a personal watchlist, detects statistically significant price movements, and sends AI-enriched alert emails — running entirely on GitHub Actions for less than $3/month.
 
-This project was built as a portfolio piece demonstrating practical LLM integration in a production data pipeline, alongside coursework in an AI/ML master's program. It is designed to **inform**, not automate trading — all purchase decisions are made manually by the user.
+This project was built as a portfolio piece demonstrating practical LLM integration in a production data pipeline. It is designed to **inform**, not automate trading — all purchase decisions are made manually by the user.
 
 ---
 
@@ -178,6 +177,3 @@ This system is a personal monitoring and educational tool. It does not execute t
 
 ---
 
-## License
-
-MIT
