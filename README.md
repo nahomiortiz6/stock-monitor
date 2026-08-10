@@ -62,7 +62,7 @@ The core question the engine answers is: *"Is this move unusual for this specifi
          ▼
 ┌─────────────────┐     ┌──────────────────────┐
 │ data_fetcher.py  │────▶│ yfinance (primary)    │
-│                  │     │ Polygon.io (fallback) │
+│                  │     │
 └────────┬─────────┘     └──────────────────────┘
          ▼
 ┌─────────────────┐
@@ -157,7 +157,7 @@ Designed to run under **$3/month**:
 config/
   watchlist.yaml          # tickers to monitor
 src/
-  data_fetcher.py          # price history retrieval + fallback logic
+  data_fetcher.py          # price history retrieval
   fundamental_fetcher.py   # 52-week range, cross signals, context data
   alert_engine.py          # ATR/RSI/severity/cooldown logic
   llm_client.py             # Claude API calls + monthly usage cap
