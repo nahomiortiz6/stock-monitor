@@ -61,8 +61,7 @@ The core question the engine answers is: *"Is this move unusual for this specifi
          │
          ▼
 ┌─────────────────┐     ┌──────────────────────┐
-│ data_fetcher.py  │────▶│ yfinance (primary)    │
-│                  │     │
+│ data_fetcher.py  │────▶│ yfinance (primary)  |
 └────────┬─────────┘     └──────────────────────┘
          ▼
 ┌─────────────────┐
@@ -90,7 +89,7 @@ The core question the engine answers is: *"Is this move unusual for this specifi
 | Component | Choice | Notes |
 |---|---|---|
 | Language | Python 3.12 | |
-| Market data | [yfinance](https://github.com/ranaroussi/yfinance) (primary), Polygon.io/Massive.com (fallback) | 2-year daily history, `auto_adjust=True` |
+| Market data | [yfinance](https://github.com/ranaroussi/yfinance) | 2-year daily history, `auto_adjust=True` |
 | Indicators | [pandas-ta-classic](https://pypi.org/project/pandas-ta-classic/) 0.6.52 | Avoids silently incorrect RSI from a non-Wilder smoothing implementation |
 | Market calendar | [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) | NYSE holidays and session times; also gates runs in real time |
 | LLM | Claude Haiku 4.5 via Anthropic API | Chosen for cost; usage capped via prepaid credits (no auto-reload) + a monthly call counter in state |
@@ -104,7 +103,7 @@ The core question the engine answers is: *"Is this move unusual for this specifi
 
 Designed to run under **$3/month**:
 - GitHub Actions: free tier covers this schedule comfortably on a public repo.
-- Anthropic API: Claude Haiku 4.5 with a hard monthly call cap tracked in `state.json`.
+- Anthropic API: Claude Haiku 4.5 with usage tracked monthly in state.json; cost ceiling enforced by prepaid credits with auto-reload disabled.
 - No paid database, server, or hosting — state lives in the repo itself.
 
 ---
@@ -137,7 +136,6 @@ Designed to run under **$3/month**:
    | `GMAIL_ADDRESS` | Sender Gmail address |
    | `GMAIL_APP_PASSWORD` | Gmail app password |
    | `ALERT_RECIPIENT_EMAIL` | Where alerts are sent |
-   | `POLYGON_API_KEY` | *(optional)* fallback data source |
 
 4. **Edit the watchlist** in `config/watchlist.yaml` to your own tickers.
 
@@ -160,7 +158,7 @@ src/
   data_fetcher.py          # price history retrieval
   fundamental_fetcher.py   # 52-week range, cross signals, context data
   alert_engine.py          # ATR/RSI/severity/cooldown logic
-  llm_client.py             # Claude API calls + monthly usage cap
+  llm_client.py             # Claude API calls
   email_sender.py           # SMTP email composition and sending
   state_manager.py          # reads/writes state.json on the state branch
   main.py                   # orchestrates the full run
