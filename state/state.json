@@ -69,8 +69,8 @@
       "last_severity": 1.0704081683379518
     },
     "MSFT_rsi": {
-      "last_alert_ts": "2026-08-11T15:29:33.708957+00:00",
-      "last_severity": 1.215877732768555
+      "last_alert_ts": "2026-08-12T16:28:47.502846+00:00",
+      "last_severity": 1.0512488821540846
     },
     "ITB_return_5d": {
       "last_alert_ts": "2026-08-07T14:13:35.619222+00:00",
@@ -85,8 +85,8 @@
       "last_severity": 3.200735957108851
     },
     "ABNB_return_5d": {
-      "last_alert_ts": "2026-08-11T15:29:33.708942+00:00",
-      "last_severity": 2.7497786768865318
+      "last_alert_ts": "2026-08-12T16:28:47.502833+00:00",
+      "last_severity": 2.391985170337071
     }
   },
   "fundamentals_cache": {
@@ -263,6 +263,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 38
+    "count": 40
   }
 }
