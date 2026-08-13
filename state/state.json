@@ -89,8 +89,8 @@
       "last_severity": 2.4742436096444287
     },
     "CSCO_return_1d": {
-      "last_alert_ts": "2026-08-13T14:22:10.487001+00:00",
-      "last_severity": 1.224977840714723
+      "last_alert_ts": "2026-08-13T18:30:07.586115+00:00",
+      "last_severity": 1.594016687183305
     }
   },
   "fundamentals_cache": {
@@ -267,6 +267,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 43
+    "count": 44
   }
 }
