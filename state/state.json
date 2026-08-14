@@ -99,6 +99,10 @@
     "NU_return_1d": {
       "last_alert_ts": "2026-08-14T14:15:59.895395+00:00",
       "last_severity": 1.9239339656967038
+    },
+    "AVGO_return_1d": {
+      "last_alert_ts": "2026-08-14T17:29:18.118641+00:00",
+      "last_severity": 1.0231717027291374
     }
   },
   "fundamentals_cache": {
@@ -275,6 +279,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 46
+    "count": 47
   }
 }
