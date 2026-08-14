@@ -91,6 +91,14 @@
     "CSCO_return_1d": {
       "last_alert_ts": "2026-08-13T18:30:07.586115+00:00",
       "last_severity": 1.594016687183305
+    },
+    "ABNB_rsi": {
+      "last_alert_ts": "2026-08-14T14:15:59.895378+00:00",
+      "last_severity": 1.2375675034811262
+    },
+    "NU_return_1d": {
+      "last_alert_ts": "2026-08-14T14:15:59.895395+00:00",
+      "last_severity": 1.9239339656967038
     }
   },
   "fundamentals_cache": {
@@ -267,6 +275,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 44
+    "count": 46
   }
 }
