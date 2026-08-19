@@ -103,6 +103,10 @@
     "AVGO_return_1d": {
       "last_alert_ts": "2026-08-14T17:29:18.118641+00:00",
       "last_severity": 1.0231717027291374
+    },
+    "ITB_return_1d": {
+      "last_alert_ts": "2026-08-19T14:33:54.074100+00:00",
+      "last_severity": 1.1573093697986514
     }
   },
   "fundamentals_cache": {
@@ -279,6 +283,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 55
+    "count": 56
   }
 }
