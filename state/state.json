@@ -17,8 +17,8 @@
       "last_severity": 1.1040824667138527
     },
     "GLD_return_1d": {
-      "last_alert_ts": "2026-08-19T13:43:45.829818+00:00",
-      "last_severity": 1.0126565433632224
+      "last_alert_ts": "2026-08-19T19:24:54.522313+00:00",
+      "last_severity": 1.352497907153526
     },
     "AAPL_return_5d": {
       "last_alert_ts": "2026-08-05T14:55:10.095640+00:00",
@@ -283,6 +283,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 57
+    "count": 58
   }
 }
