@@ -107,6 +107,10 @@
     "ITB_return_1d": {
       "last_alert_ts": "2026-08-19T14:33:54.074100+00:00",
       "last_severity": 1.1573093697986514
+    },
+    "TSLA_return_1d": {
+      "last_alert_ts": "2026-08-21T19:48:44.545938+00:00",
+      "last_severity": 1.0301652443720948
     }
   },
   "fundamentals_cache": {
@@ -283,6 +287,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 62
+    "count": 63
   }
 }
