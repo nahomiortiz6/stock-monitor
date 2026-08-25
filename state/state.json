@@ -119,6 +119,10 @@
     "MA_return_5d": {
       "last_alert_ts": "2026-08-24T13:52:00.990447+00:00",
       "last_severity": 1.303753827065378
+    },
+    "MA_rsi": {
+      "last_alert_ts": "2026-08-25T13:50:19.451135+00:00",
+      "last_severity": 1.0166858190289285
     }
   },
   "fundamentals_cache": {
@@ -295,6 +299,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 67
+    "count": 68
   }
 }
