@@ -17,8 +17,8 @@
       "last_severity": 1.1040824667138527
     },
     "GLD_return_1d": {
-      "last_alert_ts": "2026-08-19T19:24:54.522313+00:00",
-      "last_severity": 1.352497907153526
+      "last_alert_ts": "2026-08-31T19:24:47.886581+00:00",
+      "last_severity": 1.2561660154406582
     },
     "AAPL_return_5d": {
       "last_alert_ts": "2026-08-05T14:55:10.095640+00:00",
@@ -69,8 +69,8 @@
       "last_severity": 1.0749422553846921
     },
     "MSFT_rsi": {
-      "last_alert_ts": "2026-08-14T18:27:14.016549+00:00",
-      "last_severity": 1.0383795795520963
+      "last_alert_ts": "2026-08-31T19:24:47.886591+00:00",
+      "last_severity": 1.0845651716019324
     },
     "ITB_return_5d": {
       "last_alert_ts": "2026-08-07T14:13:35.619222+00:00",
@@ -123,6 +123,10 @@
     "MA_rsi": {
       "last_alert_ts": "2026-08-26T13:54:21.800854+00:00",
       "last_severity": 1.01027113595744
+    },
+    "VB_return_1d": {
+      "last_alert_ts": "2026-08-31T19:24:47.886568+00:00",
+      "last_severity": 1.127537422747774
     }
   },
   "fundamentals_cache": {
@@ -299,6 +303,6 @@
   },
   "llm_calls": {
     "month": "2026-08",
-    "count": 73
+    "count": 76
   }
 }
