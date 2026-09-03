@@ -109,8 +109,8 @@
       "last_severity": 1.1573093697986514
     },
     "TSLA_return_1d": {
-      "last_alert_ts": "2026-08-21T19:48:44.545938+00:00",
-      "last_severity": 1.0301652443720948
+      "last_alert_ts": "2026-09-03T16:57:07.140835+00:00",
+      "last_severity": 1.215498779121213
     },
     "MELI_return_5d": {
       "last_alert_ts": "2026-08-25T14:44:28.123186+00:00",
@@ -307,6 +307,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 4
+    "count": 5
   }
 }
