@@ -131,6 +131,10 @@
     "VNQ_return_5d": {
       "last_alert_ts": "2026-09-02T19:42:55.984800+00:00",
       "last_severity": 1.2025831157063354
+    },
+    "ADBE_return_5d": {
+      "last_alert_ts": "2026-09-08T17:06:09.581313+00:00",
+      "last_severity": 1.0996845070971628
     }
   },
   "fundamentals_cache": {
@@ -307,6 +311,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 5
+    "count": 6
   }
 }
