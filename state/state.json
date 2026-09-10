@@ -85,8 +85,8 @@
       "last_severity": 3.200735957108851
     },
     "ABNB_return_5d": {
-      "last_alert_ts": "2026-08-13T17:31:17.393382+00:00",
-      "last_severity": 2.4742436096444287
+      "last_alert_ts": "2026-09-10T19:28:07.222810+00:00",
+      "last_severity": 1.050176089242894
     },
     "CSCO_return_1d": {
       "last_alert_ts": "2026-08-13T18:30:07.586115+00:00",
@@ -139,6 +139,10 @@
     "AMD_return_5d": {
       "last_alert_ts": "2026-09-09T17:03:24.094679+00:00",
       "last_severity": 1.2610097251588541
+    },
+    "VWO_return_1d": {
+      "last_alert_ts": "2026-09-10T19:28:07.222797+00:00",
+      "last_severity": 1.0144334104797776
     }
   },
   "fundamentals_cache": {
@@ -315,6 +319,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 8
+    "count": 10
   }
 }
