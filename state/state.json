@@ -9,8 +9,8 @@
       "last_severity": 1.109064288615681
     },
     "VWO_return_5d": {
-      "last_alert_ts": "2026-08-05T14:55:10.095625+00:00",
-      "last_severity": 1.5433601987599532
+      "last_alert_ts": "2026-09-14T18:21:56.603339+00:00",
+      "last_severity": 1.047466062769673
     },
     "VGT_return_5d": {
       "last_alert_ts": "2026-08-07T15:26:23.632762+00:00",
@@ -319,6 +319,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 15
+    "count": 16
   }
 }
