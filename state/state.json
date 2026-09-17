@@ -143,6 +143,10 @@
     "VWO_return_1d": {
       "last_alert_ts": "2026-09-10T19:28:07.222797+00:00",
       "last_severity": 1.0144334104797776
+    },
+    "AMD_return_1d": {
+      "last_alert_ts": "2026-09-17T17:29:57.522201+00:00",
+      "last_severity": 1.0194069740792255
     }
   },
   "fundamentals_cache": {
@@ -319,6 +323,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 17
+    "count": 18
   }
 }
