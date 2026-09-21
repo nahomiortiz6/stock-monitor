@@ -13,8 +13,8 @@
       "last_severity": 1.047466062769673
     },
     "VGT_return_5d": {
-      "last_alert_ts": "2026-08-07T15:26:23.632762+00:00",
-      "last_severity": 1.1040824667138527
+      "last_alert_ts": "2026-09-21T18:29:54.322102+00:00",
+      "last_severity": 1.2129633356943208
     },
     "GLD_return_1d": {
       "last_alert_ts": "2026-08-31T19:24:47.886581+00:00",
@@ -37,8 +37,8 @@
       "last_severity": 3.041806009221471
     },
     "NVDA_return_5d": {
-      "last_alert_ts": "2026-08-07T15:26:23.632783+00:00",
-      "last_severity": 1.3980274651111455
+      "last_alert_ts": "2026-09-21T18:29:54.322128+00:00",
+      "last_severity": 1.1127616547586785
     },
     "GOOGL_return_5d": {
       "last_alert_ts": "2026-08-05T14:55:10.095663+00:00",
@@ -53,16 +53,16 @@
       "last_severity": 1.2871480287621222
     },
     "SOXX_return_5d": {
-      "last_alert_ts": "2026-08-05T15:13:33.429711+00:00",
-      "last_severity": 1.028686659325661
+      "last_alert_ts": "2026-09-21T18:29:54.322108+00:00",
+      "last_severity": 1.534890086041647
     },
     "MU_return_5d": {
-      "last_alert_ts": "2026-08-17T14:27:31.718188+00:00",
-      "last_severity": 1.0226402956106266
+      "last_alert_ts": "2026-09-21T18:29:54.322123+00:00",
+      "last_severity": 1.0934529357541973
     },
     "TSM_return_5d": {
-      "last_alert_ts": "2026-08-05T15:13:33.429743+00:00",
-      "last_severity": 1.0046125139202386
+      "last_alert_ts": "2026-09-21T18:29:54.322134+00:00",
+      "last_severity": 1.0306753072910289
     },
     "MELI_return_1d": {
       "last_alert_ts": "2026-08-19T16:00:24.468437+00:00",
@@ -137,16 +137,24 @@
       "last_severity": 1.0995638274216397
     },
     "AMD_return_5d": {
-      "last_alert_ts": "2026-09-11T16:55:42.557874+00:00",
-      "last_severity": 1.141213494986259
+      "last_alert_ts": "2026-09-21T18:29:54.322115+00:00",
+      "last_severity": 2.181083420687499
     },
     "VWO_return_1d": {
-      "last_alert_ts": "2026-09-10T19:28:07.222797+00:00",
-      "last_severity": 1.0144334104797776
+      "last_alert_ts": "2026-09-21T18:29:54.322093+00:00",
+      "last_severity": 1.1314442165762544
     },
     "AMD_return_1d": {
       "last_alert_ts": "2026-09-17T17:29:57.522201+00:00",
       "last_severity": 1.0194069740792255
+    },
+    "VOO_return_1d": {
+      "last_alert_ts": "2026-09-21T18:29:54.322077+00:00",
+      "last_severity": 1.20355644534473
+    },
+    "NVO_return_1d": {
+      "last_alert_ts": "2026-09-21T18:29:54.322138+00:00",
+      "last_severity": 1.511635040580596
     }
   },
   "fundamentals_cache": {
@@ -323,6 +331,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 18
+    "count": 27
   }
 }
