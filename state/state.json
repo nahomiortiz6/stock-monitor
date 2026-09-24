@@ -13,8 +13,8 @@
       "last_severity": 1.1814143669901125
     },
     "VGT_return_5d": {
-      "last_alert_ts": "2026-09-23T17:44:12.702831+00:00",
-      "last_severity": 1.34291666061859
+      "last_alert_ts": "2026-09-24T17:45:38.931801+00:00",
+      "last_severity": 1.1807637061947163
     },
     "GLD_return_1d": {
       "last_alert_ts": "2026-08-31T19:24:47.886581+00:00",
@@ -49,12 +49,12 @@
       "last_severity": 1.1119409687553679
     },
     "NVO_return_5d": {
-      "last_alert_ts": "2026-09-23T17:44:12.702969+00:00",
-      "last_severity": 1.0770714619652058
+      "last_alert_ts": "2026-09-24T17:45:38.931836+00:00",
+      "last_severity": 1.3240688826502722
     },
     "SOXX_return_5d": {
-      "last_alert_ts": "2026-09-23T17:44:12.702846+00:00",
-      "last_severity": 1.6438173861491583
+      "last_alert_ts": "2026-09-24T17:45:38.931813+00:00",
+      "last_severity": 1.0481576932082244
     },
     "MU_return_5d": {
       "last_alert_ts": "2026-09-23T17:44:12.702884+00:00",
@@ -85,8 +85,8 @@
       "last_severity": 1.6095028073189843
     },
     "ABNB_return_5d": {
-      "last_alert_ts": "2026-09-11T19:28:29.044045+00:00",
-      "last_severity": 1.0715608585693044
+      "last_alert_ts": "2026-09-24T17:45:38.931825+00:00",
+      "last_severity": 1.1046478303178162
     },
     "CSCO_return_1d": {
       "last_alert_ts": "2026-09-23T17:44:12.702961+00:00",
@@ -137,8 +137,8 @@
       "last_severity": 1.0995638274216397
     },
     "AMD_return_5d": {
-      "last_alert_ts": "2026-09-23T17:44:12.702870+00:00",
-      "last_severity": 2.0887355190258536
+      "last_alert_ts": "2026-09-24T17:45:38.931831+00:00",
+      "last_severity": 1.3463946571423746
     },
     "VWO_return_1d": {
       "last_alert_ts": "2026-09-21T18:29:54.322093+00:00",
@@ -167,6 +167,10 @@
     "GOOGL_return_1d": {
       "last_alert_ts": "2026-09-23T17:44:12.702953+00:00",
       "last_severity": 1.1328834826366319
+    },
+    "VNQ_rsi": {
+      "last_alert_ts": "2026-09-24T17:45:38.931818+00:00",
+      "last_severity": 1.0186539681310534
     }
   },
   "fundamentals_cache": {
@@ -343,6 +347,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 43
+    "count": 49
   }
 }
