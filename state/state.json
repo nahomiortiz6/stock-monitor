@@ -169,8 +169,16 @@
       "last_severity": 1.1328834826366319
     },
     "VNQ_rsi": {
-      "last_alert_ts": "2026-09-24T17:45:38.931818+00:00",
-      "last_severity": 1.0186539681310534
+      "last_alert_ts": "2026-09-29T18:28:26.556155+00:00",
+      "last_severity": 1.1178108082272842
+    },
+    "NU_return_5d": {
+      "last_alert_ts": "2026-09-29T18:28:26.556166+00:00",
+      "last_severity": 1.1522273983257
+    },
+    "NVO_rsi": {
+      "last_alert_ts": "2026-09-29T18:28:26.556175+00:00",
+      "last_severity": 1.0129913794530254
     }
   },
   "fundamentals_cache": {
@@ -347,6 +355,6 @@
   },
   "llm_calls": {
     "month": "2026-09",
-    "count": 49
+    "count": 52
   }
 }
