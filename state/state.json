@@ -179,6 +179,10 @@
     "NVO_rsi": {
       "last_alert_ts": "2026-10-01T18:42:46.221399+00:00",
       "last_severity": 1.0617901613073768
+    },
+    "TSM_rsi": {
+      "last_alert_ts": "2026-10-02T18:13:58.215476+00:00",
+      "last_severity": 1.0375467708734685
     }
   },
   "fundamentals_cache": {
@@ -355,6 +359,6 @@
   },
   "llm_calls": {
     "month": "2026-10",
-    "count": 2
+    "count": 3
   }
 }
