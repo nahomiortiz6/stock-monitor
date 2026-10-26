@@ -41,8 +41,8 @@
       "last_severity": 1.057737283228996
     },
     "GOOGL_return_5d": {
-      "last_alert_ts": "2026-10-22T17:52:00.120693+00:00",
-      "last_severity": 1.0220545752215586
+      "last_alert_ts": "2026-10-26T19:02:27.035721+00:00",
+      "last_severity": 1.2108782443789823
     },
     "CSCO_return_5d": {
       "last_alert_ts": "2026-10-19T19:03:27.990631+00:00",
@@ -65,8 +65,8 @@
       "last_severity": 1.126203013101
     },
     "MELI_return_1d": {
-      "last_alert_ts": "2026-08-19T16:00:24.468437+00:00",
-      "last_severity": 1.0749422553846921
+      "last_alert_ts": "2026-10-26T19:02:27.035707+00:00",
+      "last_severity": 1.4207041882604028
     },
     "MSFT_rsi": {
       "last_alert_ts": "2026-10-13T19:45:36.677522+00:00",
@@ -97,8 +97,8 @@
       "last_severity": 1.0172096546073865
     },
     "NU_return_1d": {
-      "last_alert_ts": "2026-09-02T19:42:55.984816+00:00",
-      "last_severity": 1.0485844334301397
+      "last_alert_ts": "2026-10-26T19:02:27.035713+00:00",
+      "last_severity": 1.7864232855135622
     },
     "AVGO_return_1d": {
       "last_alert_ts": "2026-08-14T17:29:18.118641+00:00",
@@ -109,8 +109,8 @@
       "last_severity": 1.0870665016800436
     },
     "TSLA_return_1d": {
-      "last_alert_ts": "2026-09-03T16:57:07.140835+00:00",
-      "last_severity": 1.215498779121213
+      "last_alert_ts": "2026-10-26T19:02:27.035717+00:00",
+      "last_severity": 1.1533731571781702
     },
     "MELI_return_5d": {
       "last_alert_ts": "2026-10-09T18:40:15.473839+00:00",
@@ -197,8 +197,8 @@
       "last_severity": 1.0335339781036101
     },
     "VWO_rsi": {
-      "last_alert_ts": "2026-10-23T17:44:27.678231+00:00",
-      "last_severity": 1.0217884993250073
+      "last_alert_ts": "2026-10-26T19:02:27.035698+00:00",
+      "last_severity": 1.0585291804092638
     }
   },
   "fundamentals_cache": {
@@ -375,6 +375,6 @@
   },
   "llm_calls": {
     "month": "2026-10",
-    "count": 49
+    "count": 54
   }
 }
