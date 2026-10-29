@@ -113,8 +113,8 @@
       "last_severity": 1.1533731571781702
     },
     "MELI_return_5d": {
-      "last_alert_ts": "2026-10-28T18:40:16.611987+00:00",
-      "last_severity": 1.0177677788387995
+      "last_alert_ts": "2026-10-29T18:48:48.656428+00:00",
+      "last_severity": 1.0080784147467672
     },
     "MA_return_5d": {
       "last_alert_ts": "2026-10-15T17:38:11.411989+00:00",
@@ -165,16 +165,16 @@
       "last_severity": 1.129201070661437
     },
     "GOOGL_return_1d": {
-      "last_alert_ts": "2026-09-23T17:44:12.702953+00:00",
-      "last_severity": 1.1328834826366319
+      "last_alert_ts": "2026-10-29T18:48:48.656444+00:00",
+      "last_severity": 2.2874214963155204
     },
     "VNQ_rsi": {
       "last_alert_ts": "2026-10-07T19:13:41.907039+00:00",
       "last_severity": 1.0194309879863435
     },
     "NU_return_5d": {
-      "last_alert_ts": "2026-10-28T18:40:16.612001+00:00",
-      "last_severity": 1.2347258678545106
+      "last_alert_ts": "2026-10-29T18:48:48.656436+00:00",
+      "last_severity": 1.2016801546780878
     },
     "NVO_rsi": {
       "last_alert_ts": "2026-10-06T18:48:26.132026+00:00",
@@ -203,182 +203,186 @@
     "TSLA_return_5d": {
       "last_alert_ts": "2026-10-27T18:34:02.479282+00:00",
       "last_severity": 1.0215040828974151
+    },
+    "MA_return_1d": {
+      "last_alert_ts": "2026-10-29T18:48:48.656439+00:00",
+      "last_severity": 1.506089596069668
     }
   },
   "fundamentals_cache": {
     "AAPL": {
       "data": {
-        "pe_ratio": 39.608944,
+        "pe_ratio": 40.165134,
         "roe": 1.4875101,
         "profit_margin": 0.27618998,
         "debt_to_equity": 78.445,
-        "ev_to_ebitda": 30.02
+        "ev_to_ebitda": 30.007
       },
-      "cached_at": "2026-10-22T17:51:54.849502+00:00"
+      "cached_at": "2026-10-29T18:48:43.841134+00:00"
     },
     "ABNB": {
       "data": {
-        "pe_ratio": 40.15376,
+        "pe_ratio": 38.059227,
         "roe": 0.34542,
         "profit_margin": 0.2045,
         "debt_to_equity": 32.004,
-        "ev_to_ebitda": 33.623
+        "ev_to_ebitda": 31.99
       },
-      "cached_at": "2026-10-22T17:51:55.147356+00:00"
+      "cached_at": "2026-10-29T18:48:44.130070+00:00"
     },
     "ADBE": {
       "data": {
-        "pe_ratio": 14.991625,
+        "pe_ratio": 13.815745,
         "roe": 0.61902,
         "profit_margin": 0.28048,
         "debt_to_equity": 57.693,
-        "ev_to_ebitda": 10.125
+        "ev_to_ebitda": 9.917
       },
-      "cached_at": "2026-10-22T17:51:55.519697+00:00"
+      "cached_at": "2026-10-29T18:48:44.405475+00:00"
     },
     "AMD": {
       "data": {
-        "pe_ratio": 130.46301,
+        "pe_ratio": 143.41582,
         "roe": 0.10196,
         "profit_margin": 0.15577,
         "debt_to_equity": 6.361,
-        "ev_to_ebitda": 93.439
+        "ev_to_ebitda": 97.83
       },
-      "cached_at": "2026-10-22T17:51:55.805128+00:00"
+      "cached_at": "2026-10-29T18:48:44.685792+00:00"
     },
     "AMZN": {
       "data": {
-        "pe_ratio": 20.15366,
+        "pe_ratio": 19.722445,
         "roe": 0.30558002,
         "profit_margin": 0.1744,
         "debt_to_equity": 45.617,
-        "ev_to_ebitda": 17.516
+        "ev_to_ebitda": 17.02
       },
-      "cached_at": "2026-10-22T17:51:56.135571+00:00"
+      "cached_at": "2026-10-29T18:48:44.999420+00:00"
     },
     "AVGO": {
       "data": {
-        "pe_ratio": 41.44572,
+        "pe_ratio": 43.955303,
         "roe": 0.44245,
         "profit_margin": 0.42944,
         "debt_to_equity": 59.604,
-        "ev_to_ebitda": 31.534
+        "ev_to_ebitda": 32.814
       },
-      "cached_at": "2026-10-22T17:51:56.484874+00:00"
+      "cached_at": "2026-10-29T18:48:45.283636+00:00"
     },
     "MELI": {
       "data": {
-        "pe_ratio": 49.36225,
+        "pe_ratio": 44.894478,
         "roe": 0.27504,
         "profit_margin": 0.052950002,
         "debt_to_equity": 168.586,
-        "ev_to_ebitda": 26.079
+        "ev_to_ebitda": 23.711
       },
-      "cached_at": "2026-10-22T17:51:56.836625+00:00"
+      "cached_at": "2026-10-29T18:48:45.560452+00:00"
     },
     "MSFT": {
       "data": {
-        "pe_ratio": 29.166018,
+        "pe_ratio": 29.369915,
         "roe": 0.34039003,
         "profit_margin": 0.40305,
         "debt_to_equity": 29.118,
-        "ev_to_ebitda": 20.642
+        "ev_to_ebitda": 20.568
       },
-      "cached_at": "2026-10-22T17:51:57.270221+00:00"
+      "cached_at": "2026-10-29T18:48:45.948515+00:00"
     },
     "MU": {
       "data": {
-        "pe_ratio": 11.644692,
+        "pe_ratio": 12.507197,
         "roe": 0.8826,
         "profit_margin": 0.63796,
         "debt_to_equity": 3.743,
-        "ev_to_ebitda": 9.146
+        "ev_to_ebitda": 9.869
       },
-      "cached_at": "2026-10-22T17:51:57.574788+00:00"
+      "cached_at": "2026-10-29T18:48:46.367123+00:00"
     },
     "NU": {
       "data": {
-        "pe_ratio": 20.19178,
+        "pe_ratio": 16.431507,
         "roe": 0.31628,
         "profit_margin": 0.42728,
         "debt_to_equity": null,
         "ev_to_ebitda": null
       },
-      "cached_at": "2026-10-22T17:51:57.863378+00:00"
+      "cached_at": "2026-10-29T18:48:46.642632+00:00"
     },
     "NVDA": {
       "data": {
-        "pe_ratio": 26.890026,
+        "pe_ratio": 26.896334,
         "roe": 1.17211,
         "profit_margin": 0.63663,
         "debt_to_equity": 16.971,
-        "ev_to_ebitda": 26.462
+        "ev_to_ebitda": 25.673
       },
-      "cached_at": "2026-10-22T17:51:58.148913+00:00"
+      "cached_at": "2026-10-29T18:48:46.925105+00:00"
     },
     "TSLA": {
       "data": {
-        "pe_ratio": 350.34256,
-        "roe": 0.046669997,
-        "profit_margin": 0.03671,
-        "debt_to_equity": 18.373,
-        "ev_to_ebitda": 139.433
+        "pe_ratio": 444.8791,
+        "roe": 0.03844,
+        "profit_margin": 0.031070001,
+        "debt_to_equity": 18.295,
+        "ev_to_ebitda": 159.522
       },
-      "cached_at": "2026-10-22T17:51:58.534969+00:00"
+      "cached_at": "2026-10-29T18:48:47.232557+00:00"
     },
     "MA": {
       "data": {
-        "pe_ratio": 34.756874,
+        "pe_ratio": 34.966446,
         "roe": 2.41202,
         "profit_margin": 0.46339,
         "debt_to_equity": 439.583,
-        "ev_to_ebitda": 25.154
+        "ev_to_ebitda": 24.669
       },
-      "cached_at": "2026-10-22T17:51:58.830358+00:00"
+      "cached_at": "2026-10-29T18:48:47.486599+00:00"
     },
     "TSM": {
       "data": {
-        "pe_ratio": 26.688917,
+        "pe_ratio": 27.7965,
         "roe": 0.41854998,
         "profit_margin": 0.51116,
         "debt_to_equity": 11.619,
-        "ev_to_ebitda": 4.076
+        "ev_to_ebitda": 4.164
       },
-      "cached_at": "2026-10-22T17:51:59.128961+00:00"
+      "cached_at": "2026-10-29T18:48:47.747354+00:00"
     },
     "GOOGL": {
       "data": {
-        "pe_ratio": 16.327898,
+        "pe_ratio": 14.770236,
         "roe": 0.48676,
         "profit_margin": 0.54771,
         "debt_to_equity": 18.859,
-        "ev_to_ebitda": 23.044
+        "ev_to_ebitda": 22.347
       },
-      "cached_at": "2026-10-22T17:51:59.418094+00:00"
+      "cached_at": "2026-10-29T18:48:48.016966+00:00"
     },
     "CSCO": {
       "data": {
-        "pe_ratio": 31.429432,
+        "pe_ratio": 32.540543,
         "roe": 0.27319,
         "profit_margin": 0.20951,
         "debt_to_equity": 62.017,
-        "ev_to_ebitda": 23.503
+        "ev_to_ebitda": 24.144
       },
-      "cached_at": "2026-10-22T17:51:59.815394+00:00"
+      "cached_at": "2026-10-29T18:48:48.384117+00:00"
     },
     "NVO": {
       "data": {
-        "pe_ratio": 9.698044,
+        "pe_ratio": 9.4731045,
         "roe": 0.59815,
         "profit_margin": 0.35347,
         "debt_to_equity": 63.327,
-        "ev_to_ebitda": 1.544
+        "ev_to_ebitda": 1.524
       },
-      "cached_at": "2026-10-22T17:52:00.120597+00:00"
+      "cached_at": "2026-10-29T18:48:48.656338+00:00"
     }
   },
   "llm_calls": {
     "month": "2026-10",
-    "count": 59
+    "count": 63
   }
 }
