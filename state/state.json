@@ -17,8 +17,8 @@
       "last_severity": 1.006007742024677
     },
     "GLD_return_1d": {
-      "last_alert_ts": "2026-08-31T19:24:47.886581+00:00",
-      "last_severity": 1.2561660154406582
+      "last_alert_ts": "2026-10-30T18:26:29.405001+00:00",
+      "last_severity": 1.3614364239439416
     },
     "AAPL_return_5d": {
       "last_alert_ts": "2026-09-16T17:29:42.960983+00:00",
@@ -41,8 +41,8 @@
       "last_severity": 1.057737283228996
     },
     "GOOGL_return_5d": {
-      "last_alert_ts": "2026-10-26T19:02:27.035721+00:00",
-      "last_severity": 1.2108782443789823
+      "last_alert_ts": "2026-10-30T18:26:29.405023+00:00",
+      "last_severity": 1.407659049439347
     },
     "CSCO_return_5d": {
       "last_alert_ts": "2026-10-19T19:03:27.990631+00:00",
@@ -89,8 +89,8 @@
       "last_severity": 1.0361766525013747
     },
     "CSCO_return_1d": {
-      "last_alert_ts": "2026-09-23T17:44:12.702961+00:00",
-      "last_severity": 1.0532395022130157
+      "last_alert_ts": "2026-10-30T18:26:29.405027+00:00",
+      "last_severity": 1.0492747223424825
     },
     "ABNB_rsi": {
       "last_alert_ts": "2026-08-26T16:17:44.206080+00:00",
@@ -101,8 +101,8 @@
       "last_severity": 1.7864232855135622
     },
     "AVGO_return_1d": {
-      "last_alert_ts": "2026-08-14T17:29:18.118641+00:00",
-      "last_severity": 1.0231717027291374
+      "last_alert_ts": "2026-10-30T18:26:29.405007+00:00",
+      "last_severity": 1.2012279413950573
     },
     "ITB_return_1d": {
       "last_alert_ts": "2026-10-22T17:52:00.120680+00:00",
@@ -121,12 +121,12 @@
       "last_severity": 1.781540555492604
     },
     "MA_rsi": {
-      "last_alert_ts": "2026-10-21T17:55:06.817437+00:00",
-      "last_severity": 1.2233275182535688
+      "last_alert_ts": "2026-10-30T18:26:29.405017+00:00",
+      "last_severity": 1.0357113796793012
     },
     "VB_return_1d": {
-      "last_alert_ts": "2026-10-14T17:48:22.526261+00:00",
-      "last_severity": 1.0394577129249774
+      "last_alert_ts": "2026-10-30T18:26:29.404986+00:00",
+      "last_severity": 1.1562203500443162
     },
     "VNQ_return_5d": {
       "last_alert_ts": "2026-09-02T19:42:55.984800+00:00",
@@ -141,16 +141,16 @@
       "last_severity": 1.0180974244187664
     },
     "VWO_return_1d": {
-      "last_alert_ts": "2026-10-22T17:52:00.120670+00:00",
-      "last_severity": 1.3170889844507727
+      "last_alert_ts": "2026-10-30T18:26:29.404991+00:00",
+      "last_severity": 1.243425555455006
     },
     "AMD_return_1d": {
-      "last_alert_ts": "2026-09-17T17:29:57.522201+00:00",
-      "last_severity": 1.0194069740792255
+      "last_alert_ts": "2026-10-30T18:26:29.405004+00:00",
+      "last_severity": 1.4109742791025515
     },
     "VOO_return_1d": {
-      "last_alert_ts": "2026-10-14T17:48:22.526248+00:00",
-      "last_severity": 1.040637417726241
+      "last_alert_ts": "2026-10-30T18:26:29.404978+00:00",
+      "last_severity": 1.5045997837314087
     },
     "NVO_return_1d": {
       "last_alert_ts": "2026-09-21T18:29:54.322138+00:00",
@@ -189,8 +189,8 @@
       "last_severity": 1.0962905121251907
     },
     "SOXX_return_1d": {
-      "last_alert_ts": "2026-10-22T17:52:00.120675+00:00",
-      "last_severity": 1.04362976896523
+      "last_alert_ts": "2026-10-30T18:26:29.404997+00:00",
+      "last_severity": 1.5098670116510335
     },
     "ADBE_return_1d": {
       "last_alert_ts": "2026-10-22T17:52:00.120683+00:00",
@@ -207,6 +207,18 @@
     "MA_return_1d": {
       "last_alert_ts": "2026-10-29T18:48:48.656439+00:00",
       "last_severity": 1.506089596069668
+    },
+    "VGT_return_1d": {
+      "last_alert_ts": "2026-10-30T18:26:29.404993+00:00",
+      "last_severity": 1.626926723470163
+    },
+    "NVDA_return_1d": {
+      "last_alert_ts": "2026-10-30T18:26:29.405013+00:00",
+      "last_severity": 1.21539821408795
+    },
+    "TSM_return_1d": {
+      "last_alert_ts": "2026-10-30T18:26:29.405020+00:00",
+      "last_severity": 1.3850912297626647
     }
   },
   "fundamentals_cache": {
@@ -383,6 +395,6 @@
   },
   "llm_calls": {
     "month": "2026-10",
-    "count": 63
+    "count": 76
   }
 }
