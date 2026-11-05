@@ -13,8 +13,8 @@
       "last_severity": 1.0147424866129329
     },
     "VGT_return_5d": {
-      "last_alert_ts": "2026-11-04T20:17:49.329640+00:00",
-      "last_severity": 1.0753642483419075
+      "last_alert_ts": "2026-11-05T20:28:54.134748+00:00",
+      "last_severity": 1.648076184714231
     },
     "GLD_return_1d": {
       "last_alert_ts": "2026-11-04T20:17:49.329657+00:00",
@@ -37,8 +37,8 @@
       "last_severity": 3.041806009221471
     },
     "NVDA_return_5d": {
-      "last_alert_ts": "2026-10-14T17:48:22.526296+00:00",
-      "last_severity": 1.057737283228996
+      "last_alert_ts": "2026-11-05T20:28:54.134774+00:00",
+      "last_severity": 1.417551857557381
     },
     "GOOGL_return_5d": {
       "last_alert_ts": "2026-11-04T20:17:49.329689+00:00",
@@ -57,16 +57,16 @@
       "last_severity": 1.1755831639764671
     },
     "MU_return_5d": {
-      "last_alert_ts": "2026-11-04T20:17:49.329677+00:00",
-      "last_severity": 1.1892434511604728
+      "last_alert_ts": "2026-11-05T20:28:54.134770+00:00",
+      "last_severity": 1.2898261230700185
     },
     "TSM_return_5d": {
-      "last_alert_ts": "2026-11-04T20:17:49.329685+00:00",
-      "last_severity": 1.1455288902589387
+      "last_alert_ts": "2026-11-05T20:28:54.134782+00:00",
+      "last_severity": 1.5380602911694408
     },
     "MELI_return_1d": {
-      "last_alert_ts": "2026-10-26T19:02:27.035707+00:00",
-      "last_severity": 1.4207041882604028
+      "last_alert_ts": "2026-11-05T20:28:54.134766+00:00",
+      "last_severity": 1.738504037270176
     },
     "MSFT_rsi": {
       "last_alert_ts": "2026-10-13T19:45:36.677522+00:00",
@@ -89,8 +89,8 @@
       "last_severity": 1.0361766525013747
     },
     "CSCO_return_1d": {
-      "last_alert_ts": "2026-10-30T18:26:29.405027+00:00",
-      "last_severity": 1.0492747223424825
+      "last_alert_ts": "2026-11-05T20:28:54.134789+00:00",
+      "last_severity": 1.3850428510788002
     },
     "ABNB_rsi": {
       "last_alert_ts": "2026-08-26T16:17:44.206080+00:00",
@@ -101,16 +101,16 @@
       "last_severity": 1.7864232855135622
     },
     "AVGO_return_1d": {
-      "last_alert_ts": "2026-10-30T18:26:29.405007+00:00",
-      "last_severity": 1.2012279413950573
+      "last_alert_ts": "2026-11-05T20:28:54.134762+00:00",
+      "last_severity": 1.292831462580533
     },
     "ITB_return_1d": {
       "last_alert_ts": "2026-10-22T17:52:00.120680+00:00",
       "last_severity": 1.0870665016800436
     },
     "TSLA_return_1d": {
-      "last_alert_ts": "2026-10-26T19:02:27.035717+00:00",
-      "last_severity": 1.1533731571781702
+      "last_alert_ts": "2026-11-05T20:28:54.134778+00:00",
+      "last_severity": 1.5089968331022443
     },
     "MELI_return_5d": {
       "last_alert_ts": "2026-10-29T18:48:48.656428+00:00",
@@ -125,8 +125,8 @@
       "last_severity": 1.0357113796793012
     },
     "VB_return_1d": {
-      "last_alert_ts": "2026-10-30T18:26:29.404986+00:00",
-      "last_severity": 1.1562203500443162
+      "last_alert_ts": "2026-11-05T20:28:54.134740+00:00",
+      "last_severity": 1.6750773325652748
     },
     "VNQ_return_5d": {
       "last_alert_ts": "2026-11-04T20:17:49.329654+00:00",
@@ -137,24 +137,24 @@
       "last_severity": 1.0995638274216397
     },
     "AMD_return_5d": {
-      "last_alert_ts": "2026-11-04T20:17:49.329668+00:00",
-      "last_severity": 1.0127521358252225
+      "last_alert_ts": "2026-11-05T20:28:54.134758+00:00",
+      "last_severity": 1.265566647686799
     },
     "VWO_return_1d": {
-      "last_alert_ts": "2026-10-30T18:26:29.404991+00:00",
-      "last_severity": 1.243425555455006
+      "last_alert_ts": "2026-11-05T20:28:54.134744+00:00",
+      "last_severity": 1.531455774612837
     },
     "AMD_return_1d": {
       "last_alert_ts": "2026-10-30T18:26:29.405004+00:00",
       "last_severity": 1.4109742791025515
     },
     "VOO_return_1d": {
-      "last_alert_ts": "2026-11-04T20:17:49.329630+00:00",
-      "last_severity": 1.0775501047330258
+      "last_alert_ts": "2026-11-05T20:28:54.134731+00:00",
+      "last_severity": 1.986087851944525
     },
     "NVO_return_1d": {
-      "last_alert_ts": "2026-09-21T18:29:54.322138+00:00",
-      "last_severity": 1.511635040580596
+      "last_alert_ts": "2026-11-05T20:28:54.134793+00:00",
+      "last_severity": 1.2282143571494495
     },
     "VNQ_return_1d": {
       "last_alert_ts": "2026-09-23T17:44:12.702853+00:00",
@@ -189,8 +189,8 @@
       "last_severity": 1.0962905121251907
     },
     "SOXX_return_1d": {
-      "last_alert_ts": "2026-10-30T18:26:29.404997+00:00",
-      "last_severity": 1.5098670116510335
+      "last_alert_ts": "2026-11-05T20:28:54.134753+00:00",
+      "last_severity": 1.272676528404314
     },
     "ADBE_return_1d": {
       "last_alert_ts": "2026-10-22T17:52:00.120683+00:00",
@@ -227,182 +227,186 @@
     "MSFT_return_1d": {
       "last_alert_ts": "2026-11-04T20:17:49.329674+00:00",
       "last_severity": 1.805941155528025
+    },
+    "GOOGL_rsi": {
+      "last_alert_ts": "2026-11-05T20:28:54.134785+00:00",
+      "last_severity": 1.0514741290516372
     }
   },
   "fundamentals_cache": {
     "AAPL": {
       "data": {
-        "pe_ratio": 40.165134,
-        "roe": 1.4875101,
-        "profit_margin": 0.27618998,
-        "debt_to_equity": 78.445,
-        "ev_to_ebitda": 30.007
+        "pe_ratio": 38.434856,
+        "roe": 1.42257,
+        "profit_margin": 0.27604,
+        "debt_to_equity": 84.286,
+        "ev_to_ebitda": 29.839
       },
-      "cached_at": "2026-10-29T18:48:43.841134+00:00"
+      "cached_at": "2026-11-05T20:28:50.137017+00:00"
     },
     "ABNB": {
       "data": {
-        "pe_ratio": 38.059227,
+        "pe_ratio": 38.71754,
         "roe": 0.34542,
         "profit_margin": 0.2045,
         "debt_to_equity": 32.004,
-        "ev_to_ebitda": 31.99
+        "ev_to_ebitda": 34.195
       },
-      "cached_at": "2026-10-29T18:48:44.130070+00:00"
+      "cached_at": "2026-11-05T20:28:50.372358+00:00"
     },
     "ADBE": {
       "data": {
-        "pe_ratio": 13.815745,
+        "pe_ratio": 13.635678,
         "roe": 0.61902,
         "profit_margin": 0.28048,
         "debt_to_equity": 57.693,
-        "ev_to_ebitda": 9.917
+        "ev_to_ebitda": 9.867
       },
-      "cached_at": "2026-10-29T18:48:44.405475+00:00"
+      "cached_at": "2026-11-05T20:28:50.593280+00:00"
     },
     "AMD": {
       "data": {
-        "pe_ratio": 143.41582,
-        "roe": 0.10196,
-        "profit_margin": 0.15577,
-        "debt_to_equity": 6.361,
-        "ev_to_ebitda": 97.83
+        "pe_ratio": 88.73872,
+        "roe": 0.1196,
+        "profit_margin": 0.16769,
+        "debt_to_equity": 13.469,
+        "ev_to_ebitda": 71.352
       },
-      "cached_at": "2026-10-29T18:48:44.685792+00:00"
+      "cached_at": "2026-11-05T20:28:50.863471+00:00"
     },
     "AMZN": {
       "data": {
-        "pe_ratio": 19.722445,
-        "roe": 0.30558002,
-        "profit_margin": 0.1744,
-        "debt_to_equity": 45.617,
-        "ev_to_ebitda": 17.02
+        "pe_ratio": 20.958368,
+        "roe": 0.27416,
+        "profit_margin": 0.16900998,
+        "debt_to_equity": 49.681,
+        "ev_to_ebitda": 16.695
       },
-      "cached_at": "2026-10-29T18:48:44.999420+00:00"
+      "cached_at": "2026-11-05T20:28:51.087801+00:00"
     },
     "AVGO": {
       "data": {
-        "pe_ratio": 43.955303,
+        "pe_ratio": 37.747128,
         "roe": 0.44245,
         "profit_margin": 0.42944,
         "debt_to_equity": 59.604,
-        "ev_to_ebitda": 32.814
+        "ev_to_ebitda": 30.409
       },
-      "cached_at": "2026-10-29T18:48:45.283636+00:00"
+      "cached_at": "2026-11-05T20:28:51.315095+00:00"
     },
     "MELI": {
       "data": {
-        "pe_ratio": 44.894478,
+        "pe_ratio": 40.846752,
         "roe": 0.27504,
         "profit_margin": 0.052950002,
         "debt_to_equity": 168.586,
-        "ev_to_ebitda": 23.711
+        "ev_to_ebitda": 24.581
       },
-      "cached_at": "2026-10-29T18:48:45.560452+00:00"
+      "cached_at": "2026-11-05T20:28:51.538731+00:00"
     },
     "MSFT": {
       "data": {
-        "pe_ratio": 29.369915,
-        "roe": 0.34039003,
-        "profit_margin": 0.40305,
-        "debt_to_equity": 29.118,
-        "ev_to_ebitda": 20.568
+        "pe_ratio": 27.906054,
+        "roe": 0.34221,
+        "profit_margin": 0.41169998,
+        "debt_to_equity": 28.465,
+        "ev_to_ebitda": 20.404
       },
-      "cached_at": "2026-10-29T18:48:45.948515+00:00"
+      "cached_at": "2026-11-05T20:28:51.762155+00:00"
     },
     "MU": {
       "data": {
-        "pe_ratio": 12.507197,
+        "pe_ratio": 9.128682,
         "roe": 0.8826,
         "profit_margin": 0.63796,
         "debt_to_equity": 3.743,
-        "ev_to_ebitda": 9.869
+        "ev_to_ebitda": 7.915
       },
-      "cached_at": "2026-10-29T18:48:46.367123+00:00"
+      "cached_at": "2026-11-05T20:28:52.066721+00:00"
     },
     "NU": {
       "data": {
-        "pe_ratio": 16.431507,
+        "pe_ratio": 15.965753,
         "roe": 0.31628,
         "profit_margin": 0.42728,
         "debt_to_equity": null,
         "ev_to_ebitda": null
       },
-      "cached_at": "2026-10-29T18:48:46.642632+00:00"
+      "cached_at": "2026-11-05T20:28:52.356355+00:00"
     },
     "NVDA": {
       "data": {
-        "pe_ratio": 26.896334,
+        "pe_ratio": 23.182049,
         "roe": 1.17211,
         "profit_margin": 0.63663,
         "debt_to_equity": 16.971,
-        "ev_to_ebitda": 25.673
+        "ev_to_ebitda": 23.847
       },
-      "cached_at": "2026-10-29T18:48:46.925105+00:00"
+      "cached_at": "2026-11-05T20:28:52.608735+00:00"
     },
     "TSLA": {
       "data": {
-        "pe_ratio": 444.8791,
+        "pe_ratio": 377.31726,
         "roe": 0.03844,
         "profit_margin": 0.031070001,
         "debt_to_equity": 18.295,
-        "ev_to_ebitda": 159.522
+        "ev_to_ebitda": 151.876
       },
-      "cached_at": "2026-10-29T18:48:47.232557+00:00"
+      "cached_at": "2026-11-05T20:28:52.847042+00:00"
     },
     "MA": {
       "data": {
-        "pe_ratio": 34.966446,
-        "roe": 2.41202,
-        "profit_margin": 0.46339,
-        "debt_to_equity": 439.583,
-        "ev_to_ebitda": 24.669
+        "pe_ratio": 34.32182,
+        "roe": 2.31366,
+        "profit_margin": 0.46732,
+        "debt_to_equity": 355.163,
+        "ev_to_ebitda": 26.032
       },
-      "cached_at": "2026-10-29T18:48:47.486599+00:00"
+      "cached_at": "2026-11-05T20:28:53.160999+00:00"
     },
     "TSM": {
       "data": {
-        "pe_ratio": 27.7965,
+        "pe_ratio": 23.200583,
         "roe": 0.41854998,
         "profit_margin": 0.51116,
         "debt_to_equity": 11.619,
-        "ev_to_ebitda": 4.164
+        "ev_to_ebitda": 3.661
       },
-      "cached_at": "2026-10-29T18:48:47.747354+00:00"
+      "cached_at": "2026-11-05T20:28:53.400529+00:00"
     },
     "GOOGL": {
       "data": {
-        "pe_ratio": 14.770236,
-        "roe": 0.48676,
-        "profit_margin": 0.54771,
-        "debt_to_equity": 18.859,
-        "ev_to_ebitda": 22.347
+        "pe_ratio": 14.829244,
+        "roe": 0.44286,
+        "profit_margin": 0.50031,
+        "debt_to_equity": 22.187,
+        "ev_to_ebitda": 18.626
       },
-      "cached_at": "2026-10-29T18:48:48.016966+00:00"
+      "cached_at": "2026-11-05T20:28:53.653999+00:00"
     },
     "CSCO": {
       "data": {
-        "pe_ratio": 32.540543,
+        "pe_ratio": 28.774775,
         "roe": 0.27319,
         "profit_margin": 0.20951,
         "debt_to_equity": 62.017,
-        "ev_to_ebitda": 24.144
+        "ev_to_ebitda": 22.731
       },
-      "cached_at": "2026-10-29T18:48:48.384117+00:00"
+      "cached_at": "2026-11-05T20:28:53.882498+00:00"
     },
     "NVO": {
       "data": {
-        "pe_ratio": 9.4731045,
-        "roe": 0.59815,
-        "profit_margin": 0.35347,
-        "debt_to_equity": 63.327,
-        "ev_to_ebitda": 1.524
+        "pe_ratio": 10.136363,
+        "roe": 0.58384,
+        "profit_margin": 0.33921,
+        "debt_to_equity": 61.744,
+        "ev_to_ebitda": 1.566
       },
-      "cached_at": "2026-10-29T18:48:48.656338+00:00"
+      "cached_at": "2026-11-05T20:28:54.134639+00:00"
     }
   },
   "llm_calls": {
     "month": "2026-11",
-    "count": 20
+    "count": 35
   }
 }
