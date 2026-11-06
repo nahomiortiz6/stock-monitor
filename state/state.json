@@ -25,8 +25,8 @@
       "last_severity": 1.0352875925474743
     },
     "AMZN_return_5d": {
-      "last_alert_ts": "2026-08-06T15:13:58.721621+00:00",
-      "last_severity": 1.8783144565384295
+      "last_alert_ts": "2026-11-06T19:51:53.741662+00:00",
+      "last_severity": 1.010601534582799
     },
     "AVGO_return_5d": {
       "last_alert_ts": "2026-10-14T17:48:22.526285+00:00",
@@ -45,8 +45,8 @@
       "last_severity": 1.1699690679967756
     },
     "CSCO_return_5d": {
-      "last_alert_ts": "2026-10-19T19:03:27.990631+00:00",
-      "last_severity": 1.016654123099984
+      "last_alert_ts": "2026-11-06T19:51:53.741670+00:00",
+      "last_severity": 1.0593292694786718
     },
     "NVO_return_5d": {
       "last_alert_ts": "2026-11-04T20:17:49.329693+00:00",
@@ -77,12 +77,12 @@
       "last_severity": 1.6709470007443636
     },
     "GLD_return_5d": {
-      "last_alert_ts": "2026-10-23T17:44:27.678242+00:00",
-      "last_severity": 1.0575788461731914
+      "last_alert_ts": "2026-11-06T19:51:53.741644+00:00",
+      "last_severity": 1.0488501583844763
     },
     "ABNB_return_1d": {
-      "last_alert_ts": "2026-11-04T20:17:49.329664+00:00",
-      "last_severity": 1.4168687019688764
+      "last_alert_ts": "2026-11-06T19:51:53.741656+00:00",
+      "last_severity": 2.3624729822055124
     },
     "ABNB_return_5d": {
       "last_alert_ts": "2026-10-19T19:03:27.990606+00:00",
@@ -407,6 +407,6 @@
   },
   "llm_calls": {
     "month": "2026-11",
-    "count": 35
+    "count": 39
   }
 }
