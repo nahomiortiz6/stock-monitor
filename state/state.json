@@ -113,8 +113,8 @@
       "last_severity": 1.5089968331022443
     },
     "MELI_return_5d": {
-      "last_alert_ts": "2026-10-29T18:48:48.656428+00:00",
-      "last_severity": 1.0080784147467672
+      "last_alert_ts": "2026-11-11T20:00:40.420377+00:00",
+      "last_severity": 1.1430035803176453
     },
     "MA_return_5d": {
       "last_alert_ts": "2026-11-04T20:17:49.329681+00:00",
@@ -231,6 +231,10 @@
     "GOOGL_rsi": {
       "last_alert_ts": "2026-11-05T20:28:54.134785+00:00",
       "last_severity": 1.0514741290516372
+    },
+    "MU_return_1d": {
+      "last_alert_ts": "2026-11-11T20:00:40.420386+00:00",
+      "last_severity": 1.144607362820402
     }
   },
   "fundamentals_cache": {
@@ -407,6 +411,6 @@
   },
   "llm_calls": {
     "month": "2026-11",
-    "count": 41
+    "count": 43
   }
 }
