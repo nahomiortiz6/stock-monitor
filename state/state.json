@@ -89,16 +89,16 @@
       "last_severity": 1.340449637623048
     },
     "CSCO_return_1d": {
-      "last_alert_ts": "2026-11-05T20:28:54.134789+00:00",
-      "last_severity": 1.3850428510788002
+      "last_alert_ts": "2026-11-13T20:20:57.822081+00:00",
+      "last_severity": 1.0070327780347268
     },
     "ABNB_rsi": {
       "last_alert_ts": "2026-08-26T16:17:44.206080+00:00",
       "last_severity": 1.0172096546073865
     },
     "NU_return_1d": {
-      "last_alert_ts": "2026-10-26T19:02:27.035713+00:00",
-      "last_severity": 1.7864232855135622
+      "last_alert_ts": "2026-11-13T20:20:57.822066+00:00",
+      "last_severity": 1.3661219855015507
     },
     "AVGO_return_1d": {
       "last_alert_ts": "2026-11-05T20:28:54.134762+00:00",
@@ -415,6 +415,6 @@
   },
   "llm_calls": {
     "month": "2026-11",
-    "count": 51
+    "count": 53
   }
 }
